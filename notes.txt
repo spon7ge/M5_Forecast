@@ -1,0 +1,5 @@
+$env:JAVA_HOME = "C:\Users\alexg\jdk17.0.16_8"
+
+
+C:\Users\alexg\AppData\Local\Programs\Python\Python310\python.exe run_feature_engineering.py
+git remote add origin https://github.com/Spon7ge/M5_Forecast.git
